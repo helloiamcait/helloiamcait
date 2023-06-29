@@ -6,7 +6,7 @@
 
 👯 I’m looking to contribute to open source documentation.
 
-🤔 I’m looking for help with using unsupported Jekyll themes with GitHub Pages (is it even possible?!?!)
+🤔 I’m looking for help with using unsupported Jekyll themes with GitHub Pages (is it even possible?!?!).
 
 💬 Ask me about my dogs Jim and Frank.
 
