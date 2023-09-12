@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```html
-/surfReport/{beachId}
-```
 
+/surfReport/{beachId}
+
+<span style="color:red">
+Text content
+</span>
