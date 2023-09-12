@@ -31,4 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+surfReport/<span style="color:blue;">{beachId}</span>
+
 
